@@ -4,9 +4,8 @@ function Home() {
 
       <div className="profile-card">
 
-        {/* Profile Image */}
         <img 
-          src="/profile.jpg " 
+          src={process.env.PUBLIC_URL + "/profile.jpg"} 
           alt="profile" 
           className="profile-img top-right"
         />
