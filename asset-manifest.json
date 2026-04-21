@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vaishnavi14122005/Portfolio.git/static/css/main.a5f130de.css",
-    "main.js": "/Vaishnavi14122005/Portfolio.git/static/js/main.dc6cd8ad.js",
-    "static/js/453.b086d8fb.chunk.js": "/Vaishnavi14122005/Portfolio.git/static/js/453.b086d8fb.chunk.js",
-    "index.html": "/Vaishnavi14122005/Portfolio.git/index.html",
-    "main.a5f130de.css.map": "/Vaishnavi14122005/Portfolio.git/static/css/main.a5f130de.css.map",
-    "main.dc6cd8ad.js.map": "/Vaishnavi14122005/Portfolio.git/static/js/main.dc6cd8ad.js.map",
-    "453.b086d8fb.chunk.js.map": "/Vaishnavi14122005/Portfolio.git/static/js/453.b086d8fb.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.a5f130de.css",
+    "main.js": "/Portfolio/static/js/main.ae3a62c0.js",
+    "static/js/453.b086d8fb.chunk.js": "/Portfolio/static/js/453.b086d8fb.chunk.js",
+    "index.html": "/Portfolio/index.html",
+    "main.a5f130de.css.map": "/Portfolio/static/css/main.a5f130de.css.map",
+    "main.ae3a62c0.js.map": "/Portfolio/static/js/main.ae3a62c0.js.map",
+    "453.b086d8fb.chunk.js.map": "/Portfolio/static/js/453.b086d8fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5f130de.css",
-    "static/js/main.dc6cd8ad.js"
+    "static/js/main.ae3a62c0.js"
   ]
 }
